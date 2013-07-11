@@ -7,8 +7,8 @@ This is one of those ideas that appear in our heads almost at the same time when
 
 Thanks to :
 
-Vinícius Pires [https://github.com/viniciuspires] and 
-Thiago da Mata [https://github.com/thiagomata]
+[Vinícius Pires](https://github.com/viniciuspires) and 
+[Thiago da Mata](https://github.com/thiagomata)
 
 
 Index of the openSpecs I am grooming:
