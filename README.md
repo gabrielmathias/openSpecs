@@ -3,7 +3,7 @@ openSpecs
 
 Some Specs I don't mind to share
 
-This is one of those ideas that appear almost at the same time when good people work together.
+This is one of those ideas that appear in our heads almost at the same time when good people work together.
 
 Thanks to :
 
