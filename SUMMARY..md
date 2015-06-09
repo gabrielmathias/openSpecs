@@ -2,6 +2,6 @@
 
 * Intro
 * Memorandum
-   * Test
+   * Objectives
 * Workpace Keeper
 
