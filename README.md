@@ -12,5 +12,5 @@ This is one of those ideas that appear in our heads almost at the same time when
 
 ## Main specs
 
-1. Memorandum - Machine State based system
+1. [Memorandum](memorandum.md) - Machine State based system
 2. WorkPaceKeeper - A Pomodoro App
